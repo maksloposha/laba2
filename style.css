@@ -1,0 +1,88 @@
+div{
+	border: 1px solid black;
+	border-radius: 5px; 
+}
+p{
+	font-size:20px;
+	font: Times New Roman;
+}
+h1{width: 750px;
+	color: #D3D3D3;
+	top: 50%;
+	right: 600px;
+}
+h4{
+	width: 150px;
+	position: absolute;
+	right:  10px;
+}
+a{
+	font-size:50px;
+	font: Times New Roman;
+	margin-left: 120px;
+}
+#header{
+	height: 125px;
+	width: 1585px;
+	background-color: #4682B4;
+}
+#header-string{
+	padding-left: 400px;
+	padding-right: 385px;
+	width: 800px;
+	font:Courier New;
+	font-size:50px;
+}
+#left-form{
+	float: left;
+	height: 490px;
+	width: 750px;
+}
+#right-form{
+	float: right;
+	height: 490px;
+	width: 750px;
+	margin-left: 5px;
+}
+
+#footer{
+	position: absolute;
+	bottom: 5px;
+	height: 125px;
+	width: 1585px;
+	background-color: #4682B4;
+}
+#left-left{
+	height: 410px;
+	width: 330px;
+	float: left;
+	background-color: #D3D3D3;
+
+}
+#left-right{
+	height: 410px;
+	width: 330px;
+	float: right;
+	float: top;
+	background-color: #FFFAFA;
+
+}
+#left-bottom{
+	height: 75px;
+	width: 750px;
+	float: right;
+	background-color: pink;
+
+}
+#right-left{
+	height: 487px;
+	width: 330px;
+	float: left;
+	background-color: #D3D3D3;
+}
+#right-right{
+	height: 487px;
+	width: 330px;
+	float: right;
+	background-color: #FFFAFA;
+}
